@@ -1,4 +1,4 @@
-# demo_repo
+# demo-repo
 practicing using git!
 ## subheader
 some 
